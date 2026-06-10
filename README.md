@@ -21,12 +21,12 @@ NumPy
 Jupyter Notebook
 
 📂 Projects Index
-1. 📊 Employee Data Cleaning Project
+1. 📊 Employee Dataset Cleaning Project
 
 Status: Completed
 A messy employee dataset was cleaned and standardized by handling missing values, fixing data types, cleaning categorical variables, and splitting combined columns.
 
-👉 Click here to view full project
+👉 Employee_Dataset
 
 2. 🎬 Movie Dataset Cleaning Project
 
