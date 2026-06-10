@@ -26,7 +26,7 @@ Jupyter Notebook
 Status: Completed
 A messy employee dataset was cleaned and standardized by handling missing values, fixing data types, cleaning categorical variables, and splitting combined columns.
 
-👉 Employee_Dataset
+LINK:https://github.com/Garima-Shakya/Data_cleaning_with_Python/tree/main/Employee_Dataset
 
 2. 🎬 Movie Dataset Cleaning Project
 
