@@ -1,6 +1,6 @@
-#Data Cleaning Portfolio – Python (Pandas)
+# Data Cleaning Portfolio – Python (Pandas)
 
-#Overview:
+# Overview:
 
 This repository contains multiple data cleaning projects using Python and Pandas. Each project focuses on transforming raw, messy datasets into clean and analysis-ready formats by applying real-world data preprocessing techniques.
 
@@ -14,7 +14,7 @@ Feature engineering (splitting columns)
 Data validation and consistency checks
 Outlier detection
 
-#Tools Used:
+# Tools Used:
 Python
 Pandas
 NumPy
